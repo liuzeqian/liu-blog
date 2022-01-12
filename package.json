@@ -9,11 +9,14 @@
   },
   "devDependencies": {
     "vuepress": "1.5.4",
+    "vuepress-plugin-awesome-musicplayer": "^1.2.1",
     "vuepress-plugin-meting": "^0.1.1",
     "vuepress-theme-reco": "1.5.7"
   },
   "dependencies": {
     "@vuepress-reco/vuepress-plugin-comments": "^1.5.7",
+    "umy-table": "^1.1.8",
+    "umy-ui": "^1.1.6",
     "vue-class-component": "^7.2.3"
   },
   "description": ""
