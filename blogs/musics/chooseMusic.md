@@ -6,4 +6,4 @@ isShowComments: true
 
 ## 喜欢的
 
-<a href="/blogs/musics/love_is_just_a_word">爱就一个字</a>
+<a href="/liu-blog/blogs/musics/love_is_just_a_word">爱就一个字</a>

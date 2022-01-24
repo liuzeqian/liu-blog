@@ -1,6 +1,6 @@
 ---
 home: true
-bgImage: /b.png
+bgImage: /c.png
 # heroImage: '/logo.jpg'
 # # heroText: 王小二的博客
 tagline: 记录美好生活
@@ -14,7 +14,7 @@ heroImageStyle:
         boxShadow: '0 5px 18px rgba(0,0,0,0.2)',
         color:'#fff',
     }
-bgImageStyle: { height: '350px' }
+bgImageStyle: { height: '400px' }
 # isShowTitleInHome: false
 features:
     - title: Yesterday

@@ -14,10 +14,6 @@ sidebar: 'auto'
 
 ### 前言
 
-以前在自己博客写过，这里简单重新复习一下并加点拓展。
-<br/>
-<i>之前粗略版：https://www.cnblogs.com/wangxiaoer5200/p/11981063.html</i>
-<br/>
 call、apply、bind 的作用是改变函数运行时 this 的指向，this 永远指向最后调用它的这个对象。关于 this 这里就不多说了，现在开始康康`call/apply/bind`
 
 ### 相似点

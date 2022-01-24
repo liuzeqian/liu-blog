@@ -2,7 +2,8 @@
 module.exports = {
     title: '刘',
     description: 'liu',
-    base: '/',
+    dest: 'public',
+    base: '/liu-blog/',
     head: [
         [
             'link',
@@ -56,7 +57,7 @@ module.exports = {
                 icon: 'reco-message',
                 items: [{
                     text: 'GitHub',
-                    link: 'https://github.com/wangxiaoer5200',
+                    link: 'https://github.com/liuzeqian/liu-blog',
                     icon: 'reco-github',
                 }, ],
             },
@@ -86,7 +87,7 @@ module.exports = {
         author: 'lzq',
         authorAvatar: '/a.png',
         record: '首页',
-        startYear: '2022',
+        startYear: '2020',
     },
     markdown: {
         lineNumbers: true,
